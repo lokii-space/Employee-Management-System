@@ -38,7 +38,6 @@ The Employee Management System is a Python-based application that allows adminis
     pip install mysql-connector-python
     ```
 4. **Set up the MySQL database:**
-    - Import the provided `employee_management.sql` file into your MySQL server.
     - Update the database connection details in `config.py`.
 
 5. **Run the application:**
