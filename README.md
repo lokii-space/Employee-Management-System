@@ -9,11 +9,13 @@ The Employee Management System is a Python-based application that allows adminis
 - Update existing employee details.
 - Delete employee records.
 - Search and retrieve employee information.
+- Tkinter-based GUI for intuitive interaction.
 - User-friendly command-line interface.
 
 ## Technologies Used
 - **Programming Language:** Python
 - **Database:** MySQL
+- **GUI Library:** Tkinter
 - **IDE/Tools:** VsCode, MySQL Workbench
 
 ## Screenshots
